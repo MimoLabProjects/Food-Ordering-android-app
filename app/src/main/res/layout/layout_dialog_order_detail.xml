@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="24dp"
+    android:paddingTop="8dp"
+    android:paddingRight="24dp"
+    android:paddingBottom="8dp"
+    android:background="@android:color/white"
+    >
+
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Order Details"
+        android:textSize="24sp"
+        android:fontFamily="@font/acme"
+        android:textColor="@android:color/black"
+        />
+    <androidx.recyclerview.widget.RecyclerView
+
+        android:id="@+id/recycler_order_detail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:layout_below="@+id/txt_title"/>
+
+   <LinearLayout
+       android:id="@+id/layout_buttons"
+       android:layout_alignParentBottom="true"
+       android:gravity="right"
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+       <Button
+           android:id="@+id/btns_ok"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:padding="8dp"
+           android:text="Ok"
+           android:textColor="@android:color/white"
+           android:background="@android:color/holo_red_light"
+           />
+
+   </LinearLayout>
+
+</RelativeLayout>

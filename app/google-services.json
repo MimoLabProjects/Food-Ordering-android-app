@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "685360826831",
+    "firebase_url": "https://fudy-31565.firebaseio.com",
+    "project_id": "fudy-31565",
+    "storage_bucket": "fudy-31565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685360826831:android:99fc5f6f735c2025452aba",
+        "android_client_info": {
+          "package_name": "com.mimolabprojects.fudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685360826831-7pglthg2ials981unjaviocvmdfokr39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mimolabprojects.fudy",
+            "certificate_hash": "b7abb5f3ca35fc79b1ae035dfc162359c878e125"
+          }
+        },
+        {
+          "client_id": "685360826831-3jurr9m53pf56hm6004vme8j05sohugi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQCSk3nHTKMgNVfRfzBbKdjVhL0tRux0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685360826831-3jurr9m53pf56hm6004vme8j05sohugi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685360826831:android:41e037cdc5a62ec1452aba",
+        "android_client_info": {
+          "package_name": "com.mimolabprojects.fudyserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685360826831-j7qs77qaosgfstsu3n40soec5bgnnodd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mimolabprojects.fudyserver",
+            "certificate_hash": "b7abb5f3ca35fc79b1ae035dfc162359c878e125"
+          }
+        },
+        {
+          "client_id": "685360826831-3jurr9m53pf56hm6004vme8j05sohugi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQCSk3nHTKMgNVfRfzBbKdjVhL0tRux0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685360826831-3jurr9m53pf56hm6004vme8j05sohugi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
